@@ -209,6 +209,12 @@ The goal is to predict the intensity of the drought, represented by ‘SPI’. W
 - Mean Absolute Error (MAE): 0.49075953
 - Pearson Correlation Coefficient: 0.78394778
 
+## Rooms for Improvement
+- The model converges too early; could use deeper or more complex networks
+- Using Recurrent layer instead of Dense
+- Experimenting with additional layer(s),
+- Experimenting with different threshold value,
+- F1-score or AUC-PR
 
 
  
