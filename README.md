@@ -180,10 +180,10 @@ The best subset is: temp_avg_msl_wind_humidity_cloud_seasonality with validation
 
 ### Evaluation
 
-Accuracy: 0.81569665 (Balanced: 0.74676501)
-Precision: 0.42084942
-Recall: 0.64880952
-F1-Score: 0.51053864
+- Accuracy: 0.81569665 (Balanced: 0.74676501)
+- Precision: 0.42084942
+- Recall: 0.64880952
+- F1-Score: 0.51053864
 
 ![image](https://github.com/user-attachments/assets/a2cb4e81-281b-4ab2-8340-e03d56c3d7de)
 
@@ -204,10 +204,10 @@ The goal is to predict the intensity of the drought, represented by ‘SPI’. W
 
 ![image](https://github.com/user-attachments/assets/1450a59e-07fe-44af-ad9e-093f414e2b44)
 
-Balanced Accuracy on New Data: 0.74614713
-Precision on New Data: 0.44197685
-Mean Absolute Error (MAE): 0.49075953
-Pearson Correlation Coefficient: 0.78394778
+- Balanced Accuracy on New Data: 0.74614713
+- Precision on New Data: 0.44197685
+- Mean Absolute Error (MAE): 0.49075953
+- Pearson Correlation Coefficient: 0.78394778
 
 
 
